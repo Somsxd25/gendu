@@ -12,11 +12,11 @@ import logging
 import socket
 import pytz  # Import pytz for timezone handling
 
-bot = telebot.TeleBot('7719516665:AAE8Q282ODXzEddCyL29r8j-d2OhpBTRu2o')
+bot = telebot.TeleBot('7900569513:AAF5fKdvOS9u37Eh2q9vp0b95jNkBMJ-73c')
 
 # Admin user IDs
-admin_id = ["7417179294"]
-admin_owner = ["7417179294"]
+admin_id = ["7702886430"]
+admin_owner = ["7702886430"]
 os.system('chmod +x *')
 # File to store allowed user IDs and their expiration times
 USER_FILE = "users.txt"
